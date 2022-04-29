@@ -3,9 +3,7 @@ The is a simple python script which detects if the wake word is detected
 create and generate the api from the link - https://console.picovoice.ai/
 
 **_requirements_**
-
 **PyAudio**
-
 **pvporcupine**
 
 
