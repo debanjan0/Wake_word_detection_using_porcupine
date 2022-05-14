@@ -10,7 +10,7 @@ create and generate the api from the link - https://console.picovoice.ai/
 
 **2. pvporcupine**
 
-**3. pvporcupine**
+**3. microphone**
 
 
 
